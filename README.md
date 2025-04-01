@@ -31,14 +31,5 @@
     <h1>DSCI 101: Introduction to Data Science</h1>
     <p>Welcome to my DSCI 101 coursework repository. This contains all my work, including lab exercises, homework assignments, and projects.</p>
     
-    <h2>Lab Exercises</h2>
-
-    <h2>Homework Assignments</h2>
-    
-    <h2>Projects</h2>
-    <ul>
-        <li>Project 1: ...</li>
-        <li>Project 2: ...</li>
-    </ul>
 </body>
 </html>
