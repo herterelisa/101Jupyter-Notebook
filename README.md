@@ -30,4 +30,9 @@
 <body>
     <h1>Welcome to My DSCI 101 Course Work</h1>
     <p>This repository contains all my work from the DSCI 101 course, including lab exercises, homework assignments, and projects.</p>
+
+</body>
+</html>
+
+    
     
