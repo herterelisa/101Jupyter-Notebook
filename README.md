@@ -4,4 +4,4 @@ Welcome to my Jupyter Notebook repository for DSCI 101 and DSCI 102! This reposi
     📄 project1.ipynb
     📄 project2.ipynb
 📁 DSCI102
-    📄 TBD
+    📄 TBD!
